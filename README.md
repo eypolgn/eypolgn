@@ -1,4 +1,8 @@
+
 <h1 align="center">Merhaba 👋</h1>
+
+![](https://komarev.com/ghpvc/?username=eypolgn&color=blue)
+
 <h3 align="center">Ben Eyüp Olgun! Bolu Abant İzzet Baysal Üniversitesinde Bilgisayar mühendisliği 3.sınıf öğrencisiyim. Sürekli yeni şeyler öğrenmek, projeler üretmek, projelerde takım çalışmalarında bulunmaktan, sorumluluk almaktan büyük haz duyuyorum. Bir şeyler üzerinde çalışıp bir sonuca varmak beni motive ediyor ve bunun üzerine kendimi sürekli geliştirmeye çalışıyorum. C, Java, Python,Go , PHP ,SQL, HTML, CSS, Javascript gibi programlama dillerinde eğitimler aldım. Özellikle Spring Boot ve Vue js gibi frameworkler üzerinde projeler ürettim.</h3>
 
 - 📫 **eyup48244@gmail.com**
