@@ -69,7 +69,7 @@
 
 <br />
 
-![GitHub Contribution Graph (Dark)](https://github.com/eypolgn/eypolgn/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!--
 </details>
 -->
@@ -78,3 +78,4 @@
 <details>
    <summary>:zap: Languages and Tools</summary>
  -->
+ ![GitHub Contribution Graph (Dark)](https://github.com/enesaks/enesaks/blob/output/github-contribution-grid-snake-dark.svg)
