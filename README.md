@@ -3,13 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=eypolgn&color=blue)
 
-<h3 align="center">Ben Eyüp Olgun! Bolu Abant İzzet Baysal Üniversitesinde Bilgisayar mühendisliği 3.sınıf öğrencisiyim. Sürekli yeni şeyler öğrenmek, projeler üretmek, projelerde takım çalışmalarında bulunmaktan, sorumluluk almaktan büyük haz duyuyorum. Bir şeyler üzerinde çalışıp bir sonuca varmak beni motive ediyor ve bunun üzerine kendimi sürekli geliştirmeye çalışıyorum. C, Java, Python,Go , PHP ,SQL, HTML, CSS, Javascript gibi programlama dillerinde eğitimler aldım. Özellikle Spring Boot ve Vue js gibi frameworkler üzerinde projeler ürettim.</h3>
+<h3 align="center">Ben Eyüp Olgun! Bolu Abant İzzet Baysal Üniversitesinde Bilgisayar mühendisliği mezunuyum. Sürekli yeni şeyler öğrenmek, projeler üretmek, projelerde takım çalışmalarında bulunmaktan, sorumluluk almaktan büyük haz duyuyorum. Bir şeyler üzerinde çalışıp bir sonuca varmak beni motive ediyor ve bunun üzerine kendimi sürekli geliştirmeye çalışıyorum. C, Java, Python,Go , PHP ,SQL, HTML, CSS, Javascript gibi programlama dillerinde eğitimler aldım. Özellikle .NET,Spring Boot ve next js gibi frameworkler üzerinde projeler ürettim.</h3>
 
 - 📫 **eyup48244@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eyüpolgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyüp olgun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eypolgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyüp olgun" height="30" width="40" /></a>
 <a href="https://instagram.com/eypolgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eypolgn" height="30" width="40" /></a>
 <a href="https://medium.com/@eyup48244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eyup48244" height="30" width="40" /></a>
 </p>
